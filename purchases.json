@@ -1,0 +1,38 @@
+{
+    "items":
+    [
+	{
+	    "item": "Android Phone",
+	    "purpose": "For developing android App for smart watches to collect user activity/sleep data",
+	    "date": "2024-03-13",
+	    "amount": 1069.99,
+	    "receipt": "android-phone-1069.99-20240313.jpg",
+	    "pdf": "android-phone-1069.99-20240313.pdf",
+	    "category": "device",
+	    "status": "submitted",
+	    "updated": "2024-04-18"
+	},
+	{
+	    "item": "Hotspot",
+	    "purpose": "For providing WIFI connection to demonstrate the Slogger App at the research core fair",
+	    "date": "2024-03-13",
+	    "amount": 53.49,
+	    "receipt": "hotspot-53.49-20240313.jpg",
+	    "pdf": "hotspot-53.49-20240313.pdf",
+	    "category": "device",
+	    "status": "submitted",
+	    "updated": "2024-04-18"
+	},
+	{
+	    "item": "Poster Printing",
+	    "purpose": "For poster session at the research core fair",
+	    "date": "2024-03-14",
+	    "amount": 103.14,
+	    "receipt": "fedex-print-poster-103.14-20240314.jpg",
+	    "pdf": "fedex-print-poster-103.14-20240314.pdf",
+	    "category": "service",
+	    "status": "submitted",
+	    "updated": "2024-04-18"
+	}
+    ]
+}
